@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://github.com/IzzulAzimZabri/IzzulAzimZabri/assets/135175479/4a132df9-fc20-4ebc-bc8a-958d39a22ac2)
 
 <!--
 **IzzulAzimZabri/IzzulAzimZabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
